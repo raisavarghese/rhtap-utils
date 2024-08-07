@@ -1,0 +1,5 @@
+Steps to install Nexus in the Openshift Cluster
+login to Openshift cluster from terminal 
+Copy the files of folder named Nexus
+Change the mode of shell script to execute
+Run the script ./install_nexus.sh
